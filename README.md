@@ -1,2 +1,2 @@
 # M3T4MEDIA-homework
-homework for SAIC RSII metamedia
+homework for SAIC RSII metamedia class
