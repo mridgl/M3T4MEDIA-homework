@@ -11,3 +11,6 @@ Currently there are four different designs available for these 'solar shingles';
 Unfortunately the one downfall of this product is the price. The roof would cost $21.85 per square foot which, for a home needing 2,000 square feet of roofing, would be a little less than $44,000. One customer who had this installation ended up costing $100,000 for the replacement of their 1,000 square foot roof and three Tesla Powerwall 2 batteries. The replacement for the solar roof alone was $70,000 not including the batteries with the system producing 10 kilowatts of power.
 
 The Solar Roof is still within developmental stages in determining efficiency and other key factors, but we are closer than ever to clean power sources and, maybe, solving some of the pollution problems we face today.
+
+- [Documentation of research](research.md)
+- [Documentation of In_Progress work](in_progress.md)

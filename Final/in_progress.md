@@ -4,6 +4,6 @@ I chose to document the image this way in order for the viewer to see how simila
 
 In_progress
 ![progress pic](in_progress.jpg)
-**Date:** April 3, 2019
-**Medium:** Digital image file produced by Photoshop
-**Description:** Sketch of solar panels as roof tiles
+- **Date:** April 3, 2019
+- **Medium:** Digital image file produced by Photoshop
+- **Description:** Sketch of solar panels as roof tiles
