@@ -4,3 +4,5 @@ The reason I chose to document my work in this way was that I had no other way o
 
 Research
 ![research pic](research.jpg)
+Date: April 3, 2019
+Description: Screenshots of pictures and website/research material on the solar panels.
