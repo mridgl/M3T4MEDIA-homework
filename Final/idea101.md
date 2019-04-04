@@ -1,5 +1,5 @@
-### IDEA No 1
-## **Solar Roof**
+### IDEA No 101
+# **Solar Roof**
 In a world plagued by smoke, coal, and petrol amongst many other things, the air quality has dropped, global warming has occurred and human health is at risk. To avoid further jeopardizing the Earth and ourselves, steps are needed to be made.
 
 Solar panels are well known as alternatives to power that are 'green'- considered clean and friendly to the environment. However, they are bulky and rather hard to place on a roof and would often have to be set off to the side; thus taking up more space than necessary. That's why, in 2005, Solar Shingles were created.
