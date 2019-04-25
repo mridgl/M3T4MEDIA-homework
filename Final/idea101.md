@@ -6,5 +6,7 @@ There will be two different kinds of phone cases. One with the solar panels bein
 
 When purchasing the phone case, it comes with a portable battery for storing extra power for when the sun has set. That way, regardless of what time of the day, your phone batter will have charge one way or another.
 
+Unlike normal phones, the battery life will be 5-7 years rather than 2-3 as the use of clean energy will aid in having the phone last longer. There are those who charge their phones at 50 or even 70% which, overtime, causes the phone to drain faster in thinking that the phone battery is about to die. However if one was to do that with this product, the result would be the same: The battery life would not drain faster. As long as someone is outside, the phone will be at a constant 100% due to being in contact with direct sunlight.
+
 - [Documentation of research](research.md)
 - [Documentation of In_Progress work](in_progress.md)
