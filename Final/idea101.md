@@ -1,16 +1,10 @@
 ### IDEA No 101
-# **Solar Roof**
-In a world plagued by smoke, coal, and petrol amongst many other things, the air quality has dropped, global warming has occurred and human health is at risk. To avoid further jeopardizing the Earth and ourselves, steps are needed to be made.
+# **Solar Phone**
+Based off of the solar shingles comes the solar phone. The solar phone, more specifically the case itself, will be fitted with solar panels directly connecting to the phones power source. Not only providing a cleaner use of energy, but making phone usage more practically. No longer will people struggle with finding places to plug in their phones as all they need to do is hold it in direct sunlight whether outside or through a window. The phone will charge within an hour or two depending on the type of case purchased.
 
-Solar panels are well known as alternatives to power that are 'green'- considered clean and friendly to the environment. However, they are bulky and rather hard to place on a roof and would often have to be set off to the side; thus taking up more space than necessary. That's why, in 2005, Solar Shingles were created.
+There will be two different kinds of phone cases. One with the solar panels being only at the top and bottom of the case. This is more highly sought after in terms of preventing smudges and fingerprints from dirtying the solar panels. However with the panels only being at the top and bottom, the phone will charge slower compared to that of a full sized solar panel case. With the full solar case, the entire phone case will be covered with solar panels with the exception of a small space off to the side where one case easily open and close the case without worrying about dirtying the solar panels. With this case, the phone will be charged much faster, however there is a greater chance of damaging more of the panels.
 
-Despite being created in 2005, most people are more familiar with Tesla's involvement in the program in 2016. Instead of the normally large and bulky solar panels, the roof would be made out of small solar panels disguised as roof shingles -hence the name. The Tesla Solar Roof is a building-integrated photovoltaic: BIPV for short. These materials are used in order to replace conventional materials such as the roof, skylights, etc. Meaning they can serve as both a normal roof or skylight while continuing to supply energy to the building -saving materials and energy costs in comparison to supplying energy separately.
-
-Currently there are four different designs available for these 'solar shingles'; tuscan glass tile, slate glass tile, textured, and smooth. In order for these to be considered strong enough as roof material, Elon Musk explained in an interview that "It's made of quartz [as it has] a quasi-infinite lifetime" In other words: stating that the roof installations are not only strong enough to hold back the forces of nature along with supply energy, but they have an infinite warranty.
-
-Unfortunately the one downfall of this product is the price. The roof would cost $21.85 per square foot which, for a home needing 2,000 square feet of roofing, would be a little less than $44,000. One customer who had this installation ended up costing $100,000 for the replacement of their 1,000 square foot roof and three Tesla Powerwall 2 batteries. The replacement for the solar roof alone was $70,000 not including the batteries with the system producing 10 kilowatts of power.
-
-The Solar Roof is still within developmental stages in determining efficiency and other key factors, but we are closer than ever to clean power sources and, maybe, solving some of the pollution problems we face today.
+When purchasing the phone case, it comes with a portable battery for storing extra power for when the sun has set. That way, regardless of what time of the day, your phone batter will have charge one way or another.
 
 - [Documentation of research](research.md)
 - [Documentation of In_Progress work](in_progress.md)
