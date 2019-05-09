@@ -17,5 +17,7 @@ Unfortunately the one downfall of this product is the price. The roof would cost
 Solar panels are still in developmental stages to this day in getting the installation prices lower in order for consumers to actually be able to use the product. Once that happens, people would prefer using cleaner energy as it is both clean and much more convenient to use.
 
 ![idea101 pic](metamedia_final.png)
+
+Artist McKenzie Ridgley displays digital work of solar panel phone cases in two separate designs.
 - [Documentation of research](research.md)
 - [Documentation of In_Progress work](in_progress.md)
